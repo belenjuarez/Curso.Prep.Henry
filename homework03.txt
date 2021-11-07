@@ -1,0 +1,16 @@
+FOR:
+
+Es un ciclo que se utiliza cuando queremos realizar una misma tarea varias veces,
+mientras se cumple una condición.
+
+&&:
+
+Se utiliza cuando necesitamos que se cumplan dos condiciones al mismo tiempo.
+
+||:
+
+Se utiliza cuando tenemos varias condiciones, y necesitamos que se cumpla alguna de ellas.
+
+!:
+
+Se utiliza cuando queremos comprobar que dos elementos son diferentes.
