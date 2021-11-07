@@ -1,0 +1,15 @@
+Variables:
+Las variables son como una "cajita" virtual donde podemos guardar distintos tipos de información.
+
+String:
+Los strings son texto, es decir, signos de puntuación,palabras u oraciones que se deben poner entre "".
+
+Funciones (argumentos, 'return'):
+Las funciones son una secuencia de órdenes que queremos que la computadora siga, algunas reciben variables como parámetro,
+la palabra 'return' la utilizamos para decirle que cuando finalice todas las tareas, queremos que nos devuelva un determinado valor.
+
+Declaraciones 'if':
+El 'if' lo utilizamos dentro de una función cuando queremos que la pc realice determinada tarea solo SI cumple una condición.
+
+Valores booleanos:
+Estos valores los podemos utilizar cuando necesitamos corroborar si determinada información es verdadera o falsa.
