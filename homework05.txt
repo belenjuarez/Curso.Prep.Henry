@@ -1,0 +1,25 @@
+Objetos:
+
+Los arrays 'guardan' elementos de manera ordenada, en forma de lista.
+y accedemos a sus valores por medio de su ubicación.
+En los objetos, los elementos que queremos guardar, van 'dentro' de una propiedad x, a la que tenemos que nombrar,
+para luego acceder al elemento mediante ese nombre.
+
+Las propiedades serían como una 'cajita', a la que etiquetamos (nombramos), para saber qué tipo de información
+tiene adentro.
+
+Los métodos son funciones que están dentro de alguna propiedad.
+
+El bucle for...in sirve para desplazarnos por las distintas propiedades que tiene un objeto.
+
+Notación de punto
+
+nos sirve para acceder a las distintas propiedades de un objeto, mediante el nombre del objeto
+seguido de un punto, y el nombre de la propiedad a la que queremos acceder.
+
+Notación de corchetes
+
+nos sirve cuando queremos acceder a alguna propiedad de un objeto, y el nombre de esta propiedad nos llega por
+una variable.
+
+
