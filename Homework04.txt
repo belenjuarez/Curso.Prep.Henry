@@ -1,0 +1,3 @@
+Arrays:
+
+Son contenedores donde podemos almacenar distintos elementos.
