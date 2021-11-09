@@ -1,0 +1,3 @@
+El prototype de un objeto construcctor, sería algo así como la madre del mismo, en ella guardamos distintas funciones
+que queremos que esos objetos constructores hereden.
+Los objetos constructores vendrían a ser un molde de 'x' elemento que necesitamos crear en reiteradas oportunidades.
