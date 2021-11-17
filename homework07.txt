@@ -1,0 +1,2 @@
+Funciones CallBack
+son funciones a las que les pasamos como parámetro, otra función.
